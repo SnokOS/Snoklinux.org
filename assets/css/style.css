@@ -73,8 +73,8 @@ h1, h2, h3, h4, h5, h6 {
   position: fixed;
   top: calc(50% - 30px);
   left: calc(50% - 30px);
-  border: 6px solid #0880e8;
-  border-top-color: #bfe0fd;
+  border: 6px solid #fa0000;
+  border-top-color: #e3f2ff;
   border-radius: 50%;
   width: 60px;
   height: 60px;
@@ -2373,7 +2373,7 @@ hr.rounded {
 
 #footer .footer-top .footer-links ul i {
   padding-right: 2px;
-  color: #5db1f9;
+  color: #f01d1d;
   font-size: 18px;
   line-height: 1;
 }
