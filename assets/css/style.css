@@ -45,7 +45,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .back-to-top:hover {
-  background: #2194f7;
+  background: #ff1414;
   color: #fff;
 }
 
@@ -2150,7 +2150,7 @@ section {
 }
 
 .blog .sidebar .search-form form button:hover {
-  background: #f8c255;
+  background: #ff0d0d;
 }
 
 .blog .sidebar .categories ul {
@@ -2168,7 +2168,7 @@ section {
 }
 
 .blog .sidebar .categories ul a:hover {
-  color: #f6b024;
+  color: #f81313;
 }
 
 .blog .sidebar .categories ul a span {
@@ -2198,7 +2198,7 @@ section {
 }
 
 .blog .sidebar .recent-posts h4 a:hover {
-  color: #f6b024;
+  color: #ff3c00;
 }
 
 .blog .sidebar .recent-posts time {
@@ -2234,8 +2234,8 @@ section {
 
 .blog .sidebar .tags ul a:hover {
   color: #fff;
-  border: 1px solid #f6b024;
-  background: #f6b024;
+  border: 1px solid #fd2313;
+  background: #ee0a0a;
 }
 
 .blog .sidebar .tags ul a span {
